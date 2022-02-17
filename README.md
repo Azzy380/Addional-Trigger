@@ -10,7 +10,7 @@ An unofficial plugin for [MCreator](https://mcreator.net/) allowing you to creat
 
 ## Downloads/Install Instructions
 Downloads can be found on the [Release page of this repo](https://github.com/Azzy380/Addional-Trigger/).
-The plugin's MCreator page is [here](https://mcreator.net/plugin/).
+The plugin's MCreator page is [here](https://mcreator.net/plugin/84150/addional-triggers).
 
 Install like any other plugin: Launch MCreator -> Open preferences -> Manage plugins -> Load Plugin -> Find your downloaded zip file -> **Restart MCreator**.
 
