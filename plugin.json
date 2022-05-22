@@ -1,0 +1,10 @@
+{
+   "id": "net_plugin",
+   "minversion": 202100351219,
+   "info": {
+       "name": "Not Enough Triggers",
+       "description": "This plugin focuses on adding more global triggers",
+       "version": "0.1",
+       "authors": "AzzyBoi"
+    }
+}
