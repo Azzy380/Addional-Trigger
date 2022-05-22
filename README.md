@@ -1,5 +1,5 @@
 # Addional Trigger
-An unofficial plugin for [MCreator](https://mcreator.net/) allowing you to create and read custom files.
+An unofficial plugin for [MCreator](https://mcreator.net/) allowing you to use new global triggers.
 
 ## Triggers
 * Player Cloned 
@@ -17,7 +17,6 @@ Install like any other plugin: Launch MCreator -> Open preferences -> Manage plu
 ## Credits/License
 Dev - Azzier
 
-Thanks to NorthWestTrees for his feedback.
 Thanks to anyone who reports a bug, suggests a feature, makes a tutorial or simply uses it.
 
 Licensed under the GNU Lesser General Public License, version 2.1  
