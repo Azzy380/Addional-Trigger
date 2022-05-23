@@ -13,11 +13,11 @@ An unofficial plugin for [MCreator](https://mcreator.net/) allowing you to use n
 - Game checks if player is in bed 
 
 ## Event methods:
-- Set BreakChance to %1 (Anvil repairs item only)
-- Set Charge to %1 (Player stops using bow item only)
-- Set enchant level to %1 (Game sets levels in the enchanting table only)
-- Set BreakSpeed to %1 (Player start harvest a block only) 
-- Set canHarvest to %1 (Game checks if player can harvest only)
+- Set BreakChance to NUMBER (Anvil repairs item only)
+- Set Charge to NUMBER (Player stops using bow item only)
+- Set enchant level to NUMBER (Game sets levels in the enchanting table only)
+- Set BreakSpeed to NUMBER (Player start harvest a block only) 
+- Set canHarvest to LOGIC (Game checks if player can harvest only)
 
 ## Important Information
 * You need to use MCreator 2021.3 or a newer version
