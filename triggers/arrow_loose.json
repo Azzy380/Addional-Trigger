@@ -4,17 +4,9 @@
       "name": "entity",
       "type": "entity"
     },
-	{
-	  "name": "sourceentity",
-	  "type": "entity"
-	},
     {
       "name": "world",
       "type": "world"
-    },
-	{
-      "name": "wasDeath",
-      "type": "logic"
     },
     {
       "name": "x",
@@ -31,9 +23,20 @@
     {
       "name": "dimension",
       "type": "dimensiontype"
+    },
+    {
+      "name": "hasAmmo",
+      "type": "logic"
+    },
+    {
+      "name": "bowItem",
+      "type": "itemstack"
+    },
+    {
+      "name": "charge",
+      "type": "number"
     }
   ],
-  "side": "server",
   "cancelable": "true",
-  "has_result": "false"
+  "has_result": "true"
 }

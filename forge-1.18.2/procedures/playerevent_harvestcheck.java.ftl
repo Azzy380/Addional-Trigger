@@ -1,0 +1,1 @@
+_event.setCanHarvest(${input$canHarvest});

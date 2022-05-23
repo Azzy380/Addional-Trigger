@@ -1,20 +1,8 @@
 {
   "dependencies_provided": [
     {
-      "name": "entity",
-      "type": "entity"
-    },
-	{
-	  "name": "sourceentity",
-	  "type": "entity"
-	},
-    {
       "name": "world",
       "type": "world"
-    },
-	{
-      "name": "wasDeath",
-      "type": "logic"
     },
     {
       "name": "x",
@@ -31,9 +19,25 @@
     {
       "name": "dimension",
       "type": "dimensiontype"
+    },
+    {
+      "name": "power",
+      "type": "number"
+    },
+    {
+      "name": "item",
+      "type": "itemstack"
+    },
+    {
+      "name": "enchantRow",
+      "type": "number"
+    },
+    {
+      "name": "level",
+      "type": "number"
     }
   ],
-  "side": "server",
-  "cancelable": "true",
-  "has_result": "false"
+  "cancelable": "false",
+  "has_result": "true",
+  "side": "server"
 }

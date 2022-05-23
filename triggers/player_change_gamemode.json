@@ -1,20 +1,8 @@
 {
   "dependencies_provided": [
     {
-      "name": "entity",
-      "type": "entity"
-    },
-	{
-	  "name": "sourceentity",
-	  "type": "entity"
-	},
-    {
       "name": "world",
       "type": "world"
-    },
-	{
-      "name": "wasDeath",
-      "type": "logic"
     },
     {
       "name": "x",
@@ -28,12 +16,16 @@
       "name": "z",
       "type": "number"
     },
+	{
+      "name": "entity",
+      "type": "entity"
+    },
     {
       "name": "dimension",
       "type": "dimensiontype"
     }
   ],
-  "side": "server",
   "cancelable": "true",
-  "has_result": "false"
+  "has_result": "false",
+  "side": "server"
 }

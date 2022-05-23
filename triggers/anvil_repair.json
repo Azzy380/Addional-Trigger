@@ -4,17 +4,25 @@
       "name": "entity",
       "type": "entity"
     },
-	{
-	  "name": "sourceentity",
-	  "type": "entity"
-	},
     {
       "name": "world",
       "type": "world"
     },
 	{
-      "name": "wasDeath",
-      "type": "logic"
+      "name": "breakChance",
+      "type": "number"
+    },
+	{
+      "name": "left",
+      "type": "itemstack"
+    },
+	{
+      "name": "right",
+      "type": "itemstack"
+    },
+    {
+      "name": "output",
+      "type": "itemstack"
     },
     {
       "name": "x",
@@ -33,7 +41,7 @@
       "type": "dimensiontype"
     }
   ],
-  "side": "server",
-  "cancelable": "true",
-  "has_result": "false"
+  "cancelable": "false",
+  "has_result": "true",
+  "side": "server"
 }
