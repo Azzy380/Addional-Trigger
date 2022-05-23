@@ -1,0 +1,1 @@
+_event.setLevel((int) ${input$level});
