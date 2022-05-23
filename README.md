@@ -1,8 +1,23 @@
-# Addional Trigger
+# Addional Trigger v0.2
 An unofficial plugin for [MCreator](https://mcreator.net/) allowing you to use new global triggers.
 
-## Triggers
-* Player Cloned 
+## Triggers:
+- Anvil Repair
+- Player stops using bow item
+- Player starts using bow item
+- Game sets levels in the enchanting table, trigger executed once for each enchanting
+- Player's gamemode is changed
+- Player clones
+- Player attempts to harvest a block
+- Game check if player can harvest a block
+- Game checks if player is in bed 
+
+## Event methods:
+- Set BreakChance to %1 (Anvil repairs item only)
+- Set Charge to %1 (Player stops using bow item only)
+- Set enchant level to %1 (Game sets levels in the enchanting table only)
+- Set BreakSpeed to %1 (Player start harvest a block only) 
+- Set canHarvest to %1 (Game checks if player can harvest only)
 
 ## Important Information
 * You need to use MCreator 2021.3 or a newer version
