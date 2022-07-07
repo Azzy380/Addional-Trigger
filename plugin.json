@@ -1,10 +1,11 @@
 {
    "id": "add_triggers",
-   "minversion": 202100351610,
+   "minversion": 202200118711,
    "info": {
        "name": "Addional Triggers",
        "description": "This plugin focuses on adding more global triggers",
-       "version": "0.2",
-       "authors": "AzzyBoi"
+       "version": "0.4",
+       "author": "AzzyBoi"
+	   "pluginPageID": 84150
     }
 }
