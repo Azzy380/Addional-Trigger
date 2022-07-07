@@ -20,7 +20,7 @@ An unofficial plugin for [MCreator](https://mcreator.net/) allowing you to use n
 - Set canHarvest to LOGIC (Game checks if player can harvest only)
 
 ## Important Information
-* You need to use MCreator 2021.3 or a newer version
+* You should to use MCreator 2022.1 or a newer version
 * This version supports Forge 1.17.1
 
 ## Downloads/Install Instructions
