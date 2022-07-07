@@ -5,7 +5,8 @@
        "name": "Addional Triggers",
        "description": "This plugin focuses on adding more global triggers",
        "version": "0.4",
-       "author": "AzzyBoi"
-	   "pluginPageID": 84150
+       "author": "AzzyBoi",
+	   "pluginPageID": 84150,
+	   "updateJSONURL": ""
     }
 }
