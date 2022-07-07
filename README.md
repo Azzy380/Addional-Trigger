@@ -1,4 +1,4 @@
-# Addional Triggers v0.4
+# Addional Triggers v0.5
 An unofficial plugin for [MCreator](https://mcreator.net/) allowing you to use new global triggers.
 
 ## Triggers:
